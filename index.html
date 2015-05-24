@@ -276,18 +276,18 @@
           + geography.properties.name + '</div></b>' + "<br>";
           if (data) {
             str +=
-            '<b>Reported # of grads:</b> &#09;' +  data["number of grads"] + '<br>' +        
-            '<b>Most popular field of study:</b> &#09;' +  data["most popular major"] + '<br>' +
-            '<b>Most popular position:</b> &#09;' +  data["most popular position"] + '<br>' +
-            '<b>Most popular destination:</b> &#09;' +  data["most popular city"] + '<br>' +
-            '<b>Most popular institution:</b> &#09;' +  data["most popular institution"] + '<br>';
+            '<b>Reported # of grads:</b><span style="margin-left:57px">' +  data["number of grads"] + '</span><br>' +        
+            '<b>Most popular field of study:</b><span style="margin-left:20px">' +  data["most popular major"] + '<br>' +
+            '<b>Most popular position:</b><span style="margin-left:45px">' +  data["most popular position"] + '<br>' +
+            '<b>Most popular destination:</b><span style="margin-left:30px">' +  data["most popular city"] + '<br>' +
+            '<b>Most popular institution:</b><span style="margin-left:35px">' +  data["most popular institution"] + '<br>';
             } else {
             str +=
-            '<b>Reported # of grads:</b>N/A<br>' +        
-            '<b>Most popular field of study:</b>N/A<br>' +
-            '<b>Most popular position:</b>N/A<br>' +
-            '<b>Most popular destination:</b>N/A<br>' +
-            '<b>Most popular institution:</b>N/A<br>';
+            '<b>Reported # of grads:</b><span style="margin-left:56px">N/A<br>' +        
+            '<b>Most popular field of study:</b><span style="margin-left:20px">N/A<br>' +
+            '<b>Most popular position:</b><span style="margin-left:45px">N/A<br>' +
+            '<b>Most popular destination:</b><span style="margin-left:30px">N/A<br>' +
+            '<b>Most popular institution:</b><span style="margin-left:35px">N/A<br>';
             }
             return str;
         }   
