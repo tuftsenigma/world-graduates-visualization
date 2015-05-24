@@ -1,0 +1,234 @@
+{
+    "EGY": {
+        "most popular institution": "American University Egypt -Center for Study Abroad", 
+        "most popular major": "International Relations", 
+        "most popular city": "&nbsp;", 
+        "most popular position": "Fellowship", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "NGA": {
+        "most popular institution": "VIK Industries LTD", 
+        "most popular major": "Economics", 
+        "most popular city": "Lagos", 
+        "most popular position": "Director", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "USA": {
+        "most popular institution": "Tufts", 
+        "most popular position": "Research Assistant", 
+        "most popular city": "Boston", 
+        "number of grads": 1966, 
+        "most popular major": "International Relations",
+        "fillKey": "20+"
+    }, 
+    "ISR": {
+        "most popular institution": "Technion Israel - Med school", 
+        "most popular major": "Biology", 
+        "most popular city": "", 
+        "most popular position": "Graduate Student", 
+        "number of grads": 4, 
+        "fillKey": "1-4"
+    }, 
+    "AZE": {
+        "most popular institution": "Silk Way Airlines", 
+        "most popular major": "International Relations", 
+        "most popular city": "Baku", 
+        "most popular position": "Handling and Logistics Coordinator", 
+        "number of grads": 1, 
+        "fillKey": "1-4"
+    }, 
+    "PER": {
+        "most popular institution": "Sacred Valley Health", 
+        "most popular major": "Biology", 
+        "most popular city": "Not specified", 
+        "most popular position": "Health Educator &amp; Community Educator", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "CAN": {
+        "most popular institution": "McMaster", 
+        "most popular major": "Biology", 
+        "most popular city": "Hamilton", 
+        "most popular position": "MD Candidate", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "JOR": {
+        "most popular institution": "Open Society Foundations", 
+        "most popular major": "German, Russian & Asian Languages/Literature", 
+        "most popular city": "Amman", 
+        "most popular position": "Intern", 
+        "number of grads": 6, 
+        "fillKey": "5-9"
+    }, 
+    "SGP": {
+        "most popular institution": "DSPG", 
+        "most popular major": "International Relations", 
+        "most popular city": "Not specified", 
+        "most popular position": "Community Executive", 
+        "number of grads": 4, 
+        "fillKey": "1-4"
+    }, 
+    "PRI": {
+        "most popular institution": "Working on Documentary", 
+        "most popular major": "Sociology", 
+        "most popular city": "San Juan", 
+        "most popular position": "Documentary", 
+        "number of grads": 1, 
+        "fillKey": "1-4"
+    }, 
+    "NLD": {
+        "most popular institution": "Sandberg Instituut", 
+        "most popular major": "Anthropology", 
+        "most popular city": "Amsterdam", 
+        "most popular position": "Master of Fine Arts", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "SEN": {
+        "most popular institution": "Peace Corps", 
+        "most popular major": "Community Health", 
+        "most popular city": "Dakar", 
+        "most popular position": "Fulbright ETA to Senegal", 
+        "number of grads": 4, 
+        "fillKey": "1-4"
+    }, 
+    "PRY": {
+        "most popular institution": "Peace Corps", 
+        "most popular major": "Womens, Gender and Sexuality Studies", 
+        "most popular city": "Not specified", 
+        "most popular position": "Volunteer", 
+        "number of grads": 1, 
+        "fillKey": "1-4"
+    }, 
+    "FRA": {
+        "most popular institution": "Teaching Assistant Program in France", 
+        "most popular major": "International Relations", 
+        "most popular city": "Paris", 
+        "most popular position": "Not specified", 
+        "number of grads": 14, 
+        "fillKey": "10-19"
+    }, 
+    "ESP": {
+        "most popular institution": "UCETAM", 
+        "most popular major": "International Relations", 
+        "most popular city": "Madrid", 
+        "most popular position": "English Teaching Auxiliary", 
+        "number of grads": 15, 
+        "fillKey": "10-19"
+    }, 
+    "CHN": {
+        "most popular institution": "Cafe Deco Group", 
+        "most popular major": "International Relations", 
+        "most popular city": "Hong Kong", 
+        "most popular position": "International Graduate-- Financial Markets", 
+        "number of grads": 7, 
+        "fillKey": "5-9"
+    }, 
+    "DEU": {
+        "most popular institution": "Sullivan &amp; Cromwell", 
+        "most popular major": "International Relations", 
+        "most popular city": "Frankfurt", 
+        "most popular position": "Legal Assistant", 
+        "number of grads": 7, 
+        "fillKey": "5-9"
+    }, 
+    "AUS": {
+        "most popular institution": "University of Sydney", 
+        "most popular major": "Anthropology", 
+        "most popular city": "Sydney", 
+        "most popular position": "PhD in Geology", 
+        "number of grads": 4, 
+        "fillKey": "1-4"
+    }, 
+    "IRL": {
+        "most popular institution": "GordonMRM", 
+        "most popular major": "History", 
+        "most popular city": "Dublin", 
+        "most popular position": "Intern", 
+        "number of grads": 1, 
+        "fillKey": "1-4"
+    }, 
+    "FIN": {
+        "most popular institution": "University of Helsinki", 
+        "most popular major": "Philosophy", 
+        "most popular city": "Helsinki", 
+        "most popular position": "Masters in Public Policy", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "KEN": {
+        "most popular institution": "Refuge Point", 
+        "most popular major": "Philosophy", 
+        "most popular city": "Not specified", 
+        "most popular position": "Communications Assistant", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "JPN": {
+        "most popular institution": "JET Programme", 
+        "most popular major": "German, Russian & Asian Languages/Literature", 
+        "most popular city": "Nanto", 
+        "most popular position": "", 
+        "number of grads": 3, 
+        "fillKey": "1-4"
+    }, 
+    "TUR": {
+        "most popular institution": "Fulbright", 
+        "most popular major": "International Relations", 
+        "most popular city": "", 
+        "most popular position": "Financial Analyst", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "HTI": {
+        "most popular institution": "Community Chlorinators - The Archimedes Project", 
+        "most popular major": "International Relations", 
+        "most popular city": "Port-au-Prince", 
+        "most popular position": "Co-Founder", 
+        "number of grads": 1, 
+        "fillKey": "1-4"
+    }, 
+    "ITA": {
+        "most popular institution": "University of Pavia", 
+        "most popular major": "Romance Languages (includes Italian Studies, Spanish)", 
+        "most popular city": "Bologna", 
+        "most popular position": "Graduate Student", 
+        "number of grads": 2, 
+        "fillKey": "1-4"
+    }, 
+    "NOR": {
+        "most popular institution": "University of Oslo", 
+        "most popular major": "German, Russian and Asian Languages/Literature", 
+        "most popular city": "Oslo", 
+        "most popular position": "MD Candidate", 
+        "number of grads": 3, 
+        "fillKey": "1-4"
+    }, 
+    "IND": {
+        "most popular institution": "Hopemonkey", 
+        "most popular major": "International Relations", 
+        "most popular city": "Mumbai", 
+        "most popular position": "Special Projects", 
+        "number of grads": 7, 
+        "fillKey": "5-9"
+    }, 
+    "MEX": {
+        "most popular institution": "Credijusto", 
+        "most popular major": "International Relations", 
+        "most popular city": "Mexico City", 
+        "most popular position": "Managing Director", 
+        "number of grads": 3, 
+        "fillKey": "1-4"
+    }, 
+    "BRA": {
+        "most popular institution": "BrazilExpt", 
+        "most popular major": "Anthropology", 
+        "most popular city": "Sao Paulo", 
+        "most popular position": "Brand Ambassador", 
+        "number of grads": 3, 
+        "fillKey": "1-4"
+    }
+}
